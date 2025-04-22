@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 32,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1919105744,
+            "Text": "You got 3x Sour Diesel? I'll pay <color=#46CB4F>$210</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1769153271,
+            "Text": "How about 3x Sour Diesel for $250?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2132394453,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1001067823,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1970540569,
+            "Text": "Great, I'll meet you <b>behind Hyland gun range</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 696470249,
+            "Text": "You got 3x Sour Diesel? I'll pay <color=#46CB4F>$210</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1550324627,
+            "Text": "How about 3x Sour Diesel for $240?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1327658064,
+            "Text": "I guess that's fine. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1077347867,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -426776471,
+            "Text": "Great, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

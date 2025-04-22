@@ -1,0 +1,36 @@
+{
+    "DataType": "MixingStationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "0dbf9d77-9255-44b1-a32e-ed37b5627d55",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"mixingstationmk2\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "fa2d9b23-eb58-43ae-8f8b-7c37a132a46e",
+    "OriginCoordinate": {
+        "x": 36.0,
+        "y": 21.0
+    },
+    "Rotation": -90,
+    "ProductContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "MixerContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"chili\",\"Quantity\":16}"
+        ]
+    },
+    "OutputContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "CurrentMixOperation": {
+        "ProductID": "meth",
+        "ProductQuality": 3,
+        "IngredientID": "chili",
+        "Quantity": 10
+    },
+    "CurrentMixTime": 16
+}

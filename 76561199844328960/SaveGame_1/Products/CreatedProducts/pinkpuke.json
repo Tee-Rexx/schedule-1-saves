@@ -1,0 +1,38 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "Name": "Pink Puke",
+    "ID": "pinkpuke",
+    "DrugType": 0,
+    "Properties": [
+        "foggy",
+        "cyclopean"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 128,
+            "g": 134,
+            "b": 117,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 215,
+            "g": 184,
+            "b": 146,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 171,
+            "g": 159,
+            "b": 131,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 102,
+            "g": 107,
+            "b": 93,
+            "a": 255
+        }
+    }
+}

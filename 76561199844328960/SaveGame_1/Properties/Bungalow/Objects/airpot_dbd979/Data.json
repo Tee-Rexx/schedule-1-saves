@@ -1,0 +1,42 @@
+{
+    "DataType": "PotData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "dbd979d8-79ce-4a0a-b468-01da8d1e0ad3",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"airpot\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "890b4b1a-139d-459d-86fe-78bc90f3adc6",
+    "OriginCoordinate": {
+        "x": 4.0,
+        "y": 7.0
+    },
+    "Rotation": 0,
+    "SoilID": "extralonglifesoil",
+    "SoilLevel": 20.0,
+    "RemainingSoilUses": 3,
+    "WaterLevel": 0.0,
+    "AppliedAdditives": [],
+    "PlantData": {
+        "DataType": "PlantData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "SeedID": "sourdieselseed",
+        "GrowthProgress": 1.0,
+        "YieldLevel": 1.0,
+        "QualityLevel": 0.5,
+        "ActiveBuds": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12,
+            14,
+            15
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 16,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 609413152,
+            "Text": "Hey, I need 5x Mega Smegma. I'll pay <color=#46CB4F>$660</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1319321910,
+            "Text": "How about 5x Mega Smegma for $720?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -131723462,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 114961908,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1777124105,
+            "Text": "Great, I'll meet you <b>outside room #2 of the brown apartment block</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1174861639,
+            "Text": "Hello, I'm after 4x Girl Scout Gold. I can pay <color=#46CB4F>$610</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1449135828,
+            "Text": "How about 4x Girl Scout Gold for $670?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1953453546,
+            "Text": "I guess that's fine. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2120354743,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1362461147,
+            "Text": "Great, I'll meet you <b>outside room #2 of the brown apartment block</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

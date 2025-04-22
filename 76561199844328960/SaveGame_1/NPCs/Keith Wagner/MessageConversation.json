@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 28,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 543270686,
+            "Text": "I NEED 3x Sour Diesel. I GOT <color=#46CB4F>$200</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -944455605,
+            "Text": "How about 3x Sour Diesel for $230?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 322234723,
+            "Text": "Damn it fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -2032125049,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1517931993,
+            "Text": "Good!! I'll see u <b>behind the construction site</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -421583453,
+            "Text": "I'm after 3x Sour Diesel. I can pay <color=#46CB4F>$200</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1437508835,
+            "Text": "How about 3x Sour Diesel for $250?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 12493620,
+            "Text": "hmmmmm FINE. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1754702932,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 136361003,
+            "Text": "Good!! I'll see u <b>on the west wharf</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

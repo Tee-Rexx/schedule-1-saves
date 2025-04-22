@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 24,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 979532785,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1213300703,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -179297056,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -715290710,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 815069198,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1502086303,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1032648537,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1517063657,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -676626665,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 613574073,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

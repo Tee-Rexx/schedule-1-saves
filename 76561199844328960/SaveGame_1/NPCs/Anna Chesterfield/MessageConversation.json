@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 8,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1615756260,
+            "Text": "Hello, I'm after 2x Mega Smegma. I can pay <color=#46CB4F>$220</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -650143525,
+            "Text": "How about 2x Mega Smegma for $260?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -806955984,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1967826820,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 60088051,
+            "Text": "Great, I'll meet you <b>outside the brick warehouse at the docks</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 529460462,
+            "Text": "Hello, I'm after 2x Girl Scout Gold. I can pay <color=#46CB4F>$255</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1543149447,
+            "Text": "How about 2x Girl Scout Gold for $305?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1982603754,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1810706129,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -240538520,
+            "Text": "Great, I'll meet you <b>Behind Randy's bait & tackle</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

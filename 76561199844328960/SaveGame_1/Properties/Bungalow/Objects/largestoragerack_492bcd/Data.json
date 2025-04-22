@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "492bcda6-2e6b-4921-91c3-42e6ef8d504d",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "0fc3eff1-af4f-471f-9c19-795996b7fdab",
+    "OriginCoordinate": {
+        "x": 6.0,
+        "y": 2.0
+    },
+    "Rotation": -90,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"sourdiesel\",\"Quantity\":5,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"sourdiesel\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"granddaddypurple\",\"Quantity\":12,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"sourdiesel\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"sourdiesel\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"sourdiesel\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"sourdiesel\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"sourdiesel\",\"Quantity\":12,\"Quality\":\"Standard\",\"PackagingID\":\"\"}"
+        ]
+    }
+}

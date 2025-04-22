@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ID": "nancy_thomas",
+    "AssignedProperty": "barn",
+    "FirstName": "Nancy",
+    "LastName": "Thomas",
+    "IsMale": false,
+    "AppearanceIndex": 2,
+    "Position": {
+        "x": 188.82846069335938,
+        "y": 0.09000052511692047,
+        "z": -6.680438995361328
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.7071071267127991,
+        "z": 0.0,
+        "w": 0.7071065306663513
+    },
+    "GUID": "5b7ae39d-b83f-4bb0-97b2-6981a8a593b9",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

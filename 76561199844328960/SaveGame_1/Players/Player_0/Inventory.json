@@ -1,0 +1,13 @@
+{
+    "Items": [
+        "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"megasmegma\",\"Quantity\":20,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"megasmegma\",\"Quantity\":6,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"megasmegma\",\"Quantity\":15,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":16143.5}"
+    ]
+}

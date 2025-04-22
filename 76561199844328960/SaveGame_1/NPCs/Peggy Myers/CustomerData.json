@@ -1,0 +1,46 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "Dependence": 0.6934999823570252,
+    "PurchaseableProducts": [
+        "megasmegma",
+        "girlscoutgold",
+        "pinkmint",
+        "megadick",
+        "extremefuel"
+    ],
+    "ProductAffinities": [
+        1.0,
+        0.14000004529953004,
+        1.0
+    ],
+    "TimeSinceLastDealCompleted": 1045,
+    "TimeSinceLastDealOffered": 3012,
+    "OfferedDeals": 39,
+    "CompletedDeals": 34,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 0,
+        "time": 0
+    },
+    "TimeSincePlayerApproached": 1081240,
+    "TimeSinceInstantDealOffered": 1081240,
+    "HasBeenRecommended": false
+}

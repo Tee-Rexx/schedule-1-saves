@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "8fe55555-5633-4727-bb24-79ee695d2716",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "fa2d9b23-eb58-43ae-8f8b-7c37a132a46e",
+    "OriginCoordinate": {
+        "x": 23.0,
+        "y": 0.0
+    },
+    "Rotation": 0,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"fullspectrumgrowlight\",\"Quantity\":6}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"soilpourer\",\"Quantity\":8}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"suspensionrack\",\"Quantity\":8}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"airpot\",\"Quantity\":8}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"megabean\",\"Quantity\":5}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"donut\",\"Quantity\":5}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"mouthwash\",\"Quantity\":5}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"banana\",\"Quantity\":5}"
+        ]
+    }
+}

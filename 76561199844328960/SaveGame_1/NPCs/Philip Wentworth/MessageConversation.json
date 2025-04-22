@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 3,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 1505950779,
+            "Text": "How about 4x Meth for $440?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1995520624,
+            "Text": "No way",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1164309421,
+            "Text": "You got 4x Meth? I'll pay <color=#46CB4F>$340</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2073497370,
+            "Text": "How about 4x Meth for $400?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1178414435,
+            "Text": "No thanks. I'll just look elsewhere",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -429175705,
+            "Text": "Hey, I need 3x Mega Smegma. I'll pay <color=#46CB4F>$420</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -253823059,
+            "Text": "How about 3x Mega Smegma for $470?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 286923335,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -373249408,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1955644661,
+            "Text": "Great, I'll meet you <b>behind the auto shop</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

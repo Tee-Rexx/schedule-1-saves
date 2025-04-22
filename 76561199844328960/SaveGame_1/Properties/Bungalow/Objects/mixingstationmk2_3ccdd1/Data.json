@@ -1,0 +1,36 @@
+{
+    "DataType": "MixingStationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "3ccdd110-5a0c-48f2-a5b3-c268121fe600",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"mixingstationmk2\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "d47666ba-6076-4779-9c8a-ffede5ff83ad",
+    "OriginCoordinate": {
+        "x": 0.0,
+        "y": 8.0
+    },
+    "Rotation": 90,
+    "ProductContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "MixerContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"iodine\",\"Quantity\":11}"
+        ]
+    },
+    "OutputContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "CurrentMixOperation": {
+        "ProductID": "",
+        "ProductQuality": 0,
+        "IngredientID": "",
+        "Quantity": 0
+    },
+    "CurrentMixTime": 0
+}

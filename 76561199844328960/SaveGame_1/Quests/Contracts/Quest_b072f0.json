@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "b072f0ad-2ff3-46d5-8d12-a9328bc6fe6e",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Kevin",
+    "Description": "Kevin has requested a delivery of 2x Mega Dick behind the Crimson Canary for $315.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f13",
+            "Name": "2x Mega Dick, Behind the Crimson Canary",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "7d819226-d119-45a1-b5f6-2f09c72c92e6",
+    "Payment": 315.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "megadick",
+                "Quality": 2,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "ed913f7e-ccde-4f03-8958-fa39c9f8e812",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "ElapsedDays": 55,
+        "Time": 810
+    }
+}

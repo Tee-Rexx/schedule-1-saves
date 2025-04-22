@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ID": "anthony_perez",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Anthony",
+    "LastName": "Perez",
+    "IsMale": true,
+    "AppearanceIndex": 5,
+    "Position": {
+        "x": -168.6334991455078,
+        "y": -4.048447608947754,
+        "z": 110.66133117675781
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.6941209435462952,
+        "z": 0.0,
+        "w": 0.7198584079742432
+    },
+    "GUID": "3f45945d-440f-4c7d-9197-8656fa9d8b42",
+    "PaidForToday": false,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

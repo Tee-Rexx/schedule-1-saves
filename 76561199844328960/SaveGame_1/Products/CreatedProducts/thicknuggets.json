@@ -1,0 +1,39 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "Name": "Thick Nuggets",
+    "ID": "thicknuggets",
+    "DrugType": 0,
+    "Properties": [
+        "sneaky",
+        "jennerising",
+        "thoughtprovoking"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 99,
+            "g": 106,
+            "b": 85,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 175,
+            "g": 136,
+            "b": 146,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 137,
+            "g": 121,
+            "b": 115,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 79,
+            "g": 84,
+            "b": 68,
+            "a": 255
+        }
+    }
+}

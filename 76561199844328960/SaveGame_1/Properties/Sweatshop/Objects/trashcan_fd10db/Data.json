@@ -1,0 +1,22 @@
+{
+    "DataType": "TrashContainerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "fd10db43-6089-4d6a-be5c-292a587bfc2c",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"trashcan\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "46a785d3-e21e-4117-8366-ebddea345dee",
+    "OriginCoordinate": {
+        "x": 6.0,
+        "y": 11.0
+    },
+    "Rotation": 90,
+    "ContentData": {
+        "TrashIDs": [
+            "plantscrap"
+        ],
+        "TrashQuantities": [
+            1
+        ]
+    }
+}

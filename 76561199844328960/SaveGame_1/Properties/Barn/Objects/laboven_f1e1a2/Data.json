@@ -1,0 +1,29 @@
+{
+    "DataType": "LabOvenData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "f1e1a22b-c2ce-4c75-951e-039d299482d6",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"laboven\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "fa2d9b23-eb58-43ae-8f8b-7c37a132a46e",
+    "OriginCoordinate": {
+        "x": 10.0,
+        "y": 29.0
+    },
+    "Rotation": 90,
+    "InputContents": {
+        "Items": [
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"liquidmeth\",\"Quantity\":10,\"Quality\":\"Premium\"}"
+        ]
+    },
+    "OutputContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "CurrentIngredientID": "liquidmeth",
+    "CurrentIngredientQuantity": 1,
+    "CurrentIngredientQuality": 3,
+    "CurrentProductID": "meth",
+    "CurrentCookProgress": 98
+}

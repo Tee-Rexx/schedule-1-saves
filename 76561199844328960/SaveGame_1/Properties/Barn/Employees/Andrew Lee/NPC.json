@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ID": "andrew_lee",
+    "AssignedProperty": "barn",
+    "FirstName": "Andrew",
+    "LastName": "Lee",
+    "IsMale": true,
+    "AppearanceIndex": 3,
+    "Position": {
+        "x": 190.02040100097657,
+        "y": 0.09000030159950257,
+        "z": -8.590411186218262
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.5719737410545349,
+        "z": 0.0,
+        "w": -0.8202720284461975
+    },
+    "GUID": "325386b9-1461-44e8-9182-5e73eead1a52",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "GrabbedItemID": "megadick",
+        "GrabbedItemQuantity": 7,
+        "SourceGUID": "e6f48c12-ae73-4973-a110-2bb0e85c99dd",
+        "DestinationGUID": "60ba3bb7-53c0-4f32-9ccc-709e3ca2c0d4"
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "DataType": "ProductManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "DiscoveredProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "afghanmclovin",
+        "aspencake",
+        "aspendeath",
+        "aspensmegma",
+        "darkbud",
+        "extremefuel",
+        "fatballs",
+        "fatsmegma",
+        "girlscoutdeath",
+        "girlscoutgold",
+        "girlscouturkle",
+        "greenchickpeas",
+        "megadick",
+        "megasmegma",
+        "miraclegrool",
+        "pinkcookies",
+        "pinkdeath",
+        "pinkmint",
+        "pinkpuke",
+        "shinygrool",
+        "thicknuggets",
+        "ultraslime",
+        "weddingass",
+        "meth"
+    ],
+    "ListedProducts": [
+        "megasmegma",
+        "girlscoutgold",
+        "pinkmint",
+        "megadick",
+        "extremefuel"
+    ],
+    "ActiveMixOperation": {
+        "ProductID": "",
+        "IngredientID": ""
+    },
+    "IsMixComplete": false,
+    "MixRecipes": [
+        {
+            "Product": "viagra",
+            "Mixer": "sourdiesel",
+            "Output": "weddingass"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "sourdiesel",
+            "Output": "ultraslime"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "greencrack",
+            "Output": "aspendeath"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "greencrack",
+            "Output": "darkbud"
+        },
+        {
+            "Product": "iodine",
+            "Mixer": "sourdiesel",
+            "Output": "miraclegrool"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "greencrack",
+            "Output": "pinkpuke"
+        },
+        {
+            "Product": "iodine",
+            "Mixer": "ultraslime",
+            "Output": "thicknuggets"
+        },
+        {
+            "Product": "iodine",
+            "Mixer": "greencrack",
+            "Output": "greenchickpeas"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "greencrack",
+            "Output": "aspensmegma"
+        },
+        {
+            "Product": "iodine",
+            "Mixer": "granddaddypurple",
+            "Output": "pinkcookies"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "granddaddypurple",
+            "Output": "afghanmclovin"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "granddaddypurple",
+            "Output": "girlscoutdeath"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "chili",
+            "Output": "megasmegma"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "donut",
+            "Output": "pinkdeath"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "mouthwash",
+            "Output": "fatballs"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "viagra",
+            "Output": "girlscoutgold"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "megabean",
+            "Output": "girlscouturkle"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "iodine",
+            "Output": "pinkmint"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "banana",
+            "Output": "shinygrool"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "addy",
+            "Output": "megadick"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "cuke",
+            "Output": "aspencake"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "paracetamol",
+            "Output": "fatsmegma"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "horsesemen",
+            "Output": "extremefuel"
+        }
+    ],
+    "ProductPrices": [
+        {
+            "String": "ogkush",
+            "Int": 40
+        },
+        {
+            "String": "sourdiesel",
+            "Int": 45
+        },
+        {
+            "String": "greencrack",
+            "Int": 50
+        },
+        {
+            "String": "granddaddypurple",
+            "Int": 55
+        },
+        {
+            "String": "meth",
+            "Int": 70
+        },
+        {
+            "String": "cocaine",
+            "Int": 150
+        },
+        {
+            "String": "afghanmclovin",
+            "Int": 52
+        },
+        {
+            "String": "aspencake",
+            "Int": 85
+        },
+        {
+            "String": "aspendeath",
+            "Int": 59
+        },
+        {
+            "String": "aspensmegma",
+            "Int": 52
+        },
+        {
+            "String": "darkbud",
+            "Int": 43
+        },
+        {
+            "String": "extremefuel",
+            "Int": 120
+        },
+        {
+            "String": "fatballs",
+            "Int": 91
+        },
+        {
+            "String": "fatsmegma",
+            "Int": 87
+        },
+        {
+            "String": "girlscoutdeath",
+            "Int": 57
+        },
+        {
+            "String": "girlscoutgold",
+            "Int": 130
+        },
+        {
+            "String": "girlscouturkle",
+            "Int": 95
+        },
+        {
+            "String": "greenchickpeas",
+            "Int": 57
+        },
+        {
+            "String": "megadick",
+            "Int": 125
+        },
+        {
+            "String": "megasmegma",
+            "Int": 115
+        },
+        {
+            "String": "miraclegrool",
+            "Int": 90
+        },
+        {
+            "String": "pinkcookies",
+            "Int": 90
+        },
+        {
+            "String": "pinkdeath",
+            "Int": 90
+        },
+        {
+            "String": "pinkmint",
+            "Int": 115
+        },
+        {
+            "String": "pinkpuke",
+            "Int": 67
+        },
+        {
+            "String": "shinygrool",
+            "Int": 84
+        },
+        {
+            "String": "thicknuggets",
+            "Int": 74
+        },
+        {
+            "String": "ultraslime",
+            "Int": 48
+        },
+        {
+            "String": "weddingass",
+            "Int": 56
+        }
+    ],
+    "FavouritedProducts": [
+        "extremefuel",
+        "megadick",
+        "pinkmint",
+        "girlscoutgold",
+        "megasmegma"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "DataType": "ChemistryStationConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "Recipe": {
+        "RecipeID": "1xliquidmeth"
+    },
+    "Destination": {
+        "ObjectGUID": "f1e1a22b-c2ce-4c75-951e-039d299482d6"
+    }
+}

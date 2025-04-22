@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ID": "andrew_rodriguez",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Andrew",
+    "LastName": "Rodriguez",
+    "IsMale": true,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": -168.9763641357422,
+        "y": -3.996349573135376,
+        "z": 111.91594696044922
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.667593240737915,
+        "z": 0.0,
+        "w": 0.744526207447052
+    },
+    "GUID": "6d72bbd5-4d28-4972-ae4e-98181c7a0a4d",
+    "PaidForToday": false,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

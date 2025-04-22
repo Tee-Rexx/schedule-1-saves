@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ID": "john_hall",
+    "AssignedProperty": "bungalow",
+    "FirstName": "John",
+    "LastName": "Hall",
+    "IsMale": true,
+    "AppearanceIndex": 1,
+    "Position": {
+        "x": -168.78517150878907,
+        "y": -4.035661220550537,
+        "z": 109.42059326171875
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.6997066140174866,
+        "z": 0.0,
+        "w": 0.7144303321838379
+    },
+    "GUID": "c27015ac-2631-422a-b3bf-c85955f34616",
+    "PaidForToday": false,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "DataType": "ChemistConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "Bed": {
+        "ObjectGUID": "4dad5f51-ef29-479f-95d9-c882e6951fef"
+    },
+    "Stations": {
+        "ObjectGUIDs": [
+            "bb543daa-32c5-4b3e-aa54-3ce4d01c3a1b",
+            "0dbf9d77-9255-44b1-a32e-ed37b5627d55"
+        ]
+    }
+}

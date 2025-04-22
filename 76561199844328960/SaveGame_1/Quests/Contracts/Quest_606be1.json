@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "606be10a-c6b3-4412-9047-e305898b031b",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Cranky Frank",
+    "Description": "Cranky Frank has requested a delivery of 3x Girl Scout Gold outside the brick warehouse at the docks for $570.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "ElapsedDays": 55,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f13",
+            "Name": "3x Girl Scout Gold, Brick warehouse at the docks",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "8af658f6-14ef-4eca-a15a-a51dc335c9fd",
+    "Payment": 570.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "girlscoutgold",
+                "Quality": 2,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "f4b9a4ef-2f22-437c-be9c-afb1a0fc583b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "ElapsedDays": 55,
+        "Time": 400
+    }
+}

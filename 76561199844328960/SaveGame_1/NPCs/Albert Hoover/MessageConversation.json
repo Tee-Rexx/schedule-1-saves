@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 26,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -812887134,
+            "Text": "The drop is ready. You can find it under the west bridge",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2120102199,
+            "Text": "Greetings. You can now get your supplies delivered directly to your properties. Use the deliveries app on your phone to place an order.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2041098708,
+            "Text": "I've received $365 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1742142585,
+            "Text": "Agreed. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 599056944,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1358663612,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 855402606,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1716613640,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -917027836,
+            "Text": "Agreed. I'll be under the north end of the overpass for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1372516943,
+            "Text": "Agreed. I'll be under the north end of the overpass for the next 6 hours.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

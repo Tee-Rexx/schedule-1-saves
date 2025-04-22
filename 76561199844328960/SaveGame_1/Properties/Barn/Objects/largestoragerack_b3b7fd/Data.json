@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "b3b7fd1a-fd07-4d60-9feb-64d2577cf2f3",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "fa2d9b23-eb58-43ae-8f8b-7c37a132a46e",
+    "OriginCoordinate": {
+        "x": 35.0,
+        "y": 0.0
+    },
+    "Rotation": 180,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"flumedicine\",\"Quantity\":1}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"granddaddypurple\",\"Quantity\":3,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"meth\",\"Quantity\":13,\"Quality\":\"Poor\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"airpot\",\"Quantity\":4}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"airpot\",\"Quantity\":10}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 35,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 966916958,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1781157643,
+            "Text": "Good!! I'll see u <b>next to the barbershop</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -844286442,
+            "Text": "You got 4x OG Kush? I'll pay <color=#46CB4F>$240</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 843566215,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1248194493,
+            "Text": "Good!! I'll see u <b>behind taco ticklers</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1663418849,
+            "Text": "I NEED 5x OG Kush. I GOT <color=#46CB4F>$305</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 396018380,
+            "Text": "Shit",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -29261726,
+            "Text": "Need me 5x OG Kush! I'll pay <color=#46CB4F>$305</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1664144888,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1777214251,
+            "Text": "Good!! I'll see u <b>in front of the motel</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

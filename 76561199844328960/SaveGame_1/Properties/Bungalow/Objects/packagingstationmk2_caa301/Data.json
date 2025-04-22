@@ -1,0 +1,21 @@
+{
+    "DataType": "PackagingStationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "caa301d2-680d-424b-8ea4-3268353f723e",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"packagingstationmk2\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "d47666ba-6076-4779-9c8a-ffede5ff83ad",
+    "OriginCoordinate": {
+        "x": 0.0,
+        "y": 3.0
+    },
+    "Rotation": 0,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"jar\",\"Quantity\":6}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"pinkcookies\",\"Quantity\":4,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    }
+}

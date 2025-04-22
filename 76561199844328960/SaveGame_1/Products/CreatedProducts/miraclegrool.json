@@ -1,0 +1,38 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "Name": "Miracle Grool",
+    "ID": "miraclegrool",
+    "DrugType": 0,
+    "Properties": [
+        "jennerising",
+        "thoughtprovoking"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 189,
+            "g": 136,
+            "b": 149,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 228,
+            "g": 144,
+            "b": 196,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 208,
+            "g": 140,
+            "b": 172,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 151,
+            "g": 108,
+            "b": 119,
+            "a": 255
+        }
+    }
+}

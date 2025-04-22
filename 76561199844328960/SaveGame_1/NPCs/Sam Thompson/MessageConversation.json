@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 15,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1791148763,
+            "Text": "Hey, can I get 2x Mega Smegma? I'll pay <color=#46CB4F>$260</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 418843044,
+            "Text": "How about 2x Mega Smegma for $310?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1128772365,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1982022906,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 558374658,
+            "Text": "Great, I'll meet you <b>at the basketball court</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -721021991,
+            "Text": "Hey, can I get 2x Mega Smegma? I'll pay <color=#46CB4F>$265</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -964078437,
+            "Text": "How about 2x Mega Smegma for $315?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -518945831,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1359481103,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 170980090,
+            "Text": "Great, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

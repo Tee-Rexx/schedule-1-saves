@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "e6f48c12-ae73-4973-a110-2bb0e85c99dd",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "fa2d9b23-eb58-43ae-8f8b-7c37a132a46e",
+    "OriginCoordinate": {
+        "x": 27.0,
+        "y": 13.0
+    },
+    "Rotation": 90,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"megadick\",\"Quantity\":8,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"megadick\",\"Quantity\":10,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"megadick\",\"Quantity\":5,\"Quality\":\"Poor\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"girlscoutgold\",\"Quantity\":3,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"pinkmint\",\"Quantity\":4,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"girlscoutgold\",\"Quantity\":16,\"Quality\":\"Premium\",\"PackagingID\":\"\"}"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "09130a9c-b32c-4cf8-a0d0-deeba1dd5060",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "fa2d9b23-eb58-43ae-8f8b-7c37a132a46e",
+    "OriginCoordinate": {
+        "x": 23.0,
+        "y": 25.0
+    },
+    "Rotation": 0,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"girlscoutgold\",\"Quantity\":20,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"girlscoutgold\",\"Quantity\":20,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"girlscoutgold\",\"Quantity\":17,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"girlscoutgold\",\"Quantity\":20,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"girlscoutgold\",\"Quantity\":3,\"Quality\":\"Poor\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"girlscoutgold\",\"Quantity\":20,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ID": "ryan_turner",
+    "AssignedProperty": "barn",
+    "FirstName": "Ryan",
+    "LastName": "Turner",
+    "IsMale": true,
+    "AppearanceIndex": 6,
+    "Position": {
+        "x": 179.38787841796876,
+        "y": -0.008779296651482582,
+        "z": -2.0716161727905275
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 3.874301341966202e-7
+    },
+    "GUID": "e5c9b79b-10d7-4053-b1a4-fd9a3428f969",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

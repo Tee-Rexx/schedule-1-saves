@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "06b6e3c6-d80f-49db-b865-86f46c948dc2",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jeff",
+    "Description": "Jeff has requested a delivery of 2x Mega Smegma behind the auto shop for $275.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "ElapsedDays": 56,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f13",
+            "Name": "2x Mega Smegma, Behind the auto shop",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "1d29f3d1-655e-4504-8a4c-1d8216db609e",
+    "Payment": 275.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "megasmegma",
+                "Quality": 2,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "11538f47-051e-4c88-b488-e273010e2213",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "ElapsedDays": 55,
+        "Time": 746
+    }
+}

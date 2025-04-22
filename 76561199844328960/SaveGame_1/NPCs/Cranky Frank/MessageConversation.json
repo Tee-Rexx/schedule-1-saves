@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 2,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1728145941,
+            "Text": "Need me 3x Mega Smegma! I'll pay <color=#46CB4F>$420</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1230449574,
+            "Text": "How about 3x Mega Smegma for $460?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -154732033,
+            "Text": "Arghh fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 97309608,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 784089270,
+            "Text": "Good!! I'll see u <b>outside the brick warehouse at the docks</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 168535030,
+            "Text": "Need me 3x Girl Scout Gold! I'll pay <color=#46CB4F>$500</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2039111850,
+            "Text": "How about 3x Girl Scout Gold for $570?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 503039538,
+            "Text": "OK FINE! What time????",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1394967332,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -577110471,
+            "Text": "Good!! I'll see u <b>outside the brick warehouse at the docks</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

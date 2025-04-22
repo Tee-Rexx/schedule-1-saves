@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 23,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1860752548,
+            "Text": "The drop is ready. You can find it at the skate park",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 160232,
+            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -802578001,
+            "Text": "I've received $650 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1637088192,
+            "Text": "I need a dead drop:\n7x High-Quality Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 725629073,
+            "Text": "Got it. I'll let you know when it's ready. Should be about 3 hours 30 min",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -988129647,
+            "Text": "Hey, you've been great to work with so I'm willing to start doing in-person meetings with you. At a meeting, you buy as much pseudo as you can carry - no more order limits.",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1285246022,
+            "Text": "Just send me a text if you'd like to meet.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1408238809,
+            "Text": "I've received $770 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -858573107,
+            "Text": "The drop is ready. You can find it on the pawn shop west wall",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1122326946,
+            "Text": "Okay. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

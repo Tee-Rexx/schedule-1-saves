@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 19,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1365483820,
+            "Text": "You got 2x Mega Smegma? I'll pay <color=#46CB4F>$215</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1163172521,
+            "Text": "How about 2x Mega Smegma for $255?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1320906911,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 748213763,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1466505867,
+            "Text": "Great, I'll meet you <b>behind the diner</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1848739672,
+            "Text": "Hello, I'm after 2x Mega Smegma. I can pay <color=#46CB4F>$220</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1091235885,
+            "Text": "How about 2x Mega Smegma for $270?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1815372665,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1973725794,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1100175440,
+            "Text": "Great, I'll meet you <b>behind Thrifty threads</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

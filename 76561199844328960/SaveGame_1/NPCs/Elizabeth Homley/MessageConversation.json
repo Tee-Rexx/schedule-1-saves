@@ -1,0 +1,41 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 22,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1436801796,
+            "Text": "Hey, I need 3x Mega Dick. I'll pay <color=#46CB4F>$420</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1116811360,
+            "Text": "How about 3x Mega Dick for $450?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -930904030,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -895140646,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1751057261,
+            "Text": "Great, I'll meet you <b>in the central canal near the car wash</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

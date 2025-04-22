@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ID": "david_martin",
+    "AssignedProperty": "barn",
+    "FirstName": "David",
+    "LastName": "Martin",
+    "IsMale": true,
+    "AppearanceIndex": 2,
+    "Position": {
+        "x": 178.9424285888672,
+        "y": -0.008779296651482582,
+        "z": -3.3158581256866457
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.23712334036827088,
+        "z": 0.0,
+        "w": -0.971479594707489
+    },
+    "GUID": "28d37f86-a52e-4768-afaf-c45e8ae548c3",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

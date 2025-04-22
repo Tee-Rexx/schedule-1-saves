@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "ec8e61f1-2242-4482-8233-aa4bbf81fb9d",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "0fc3eff1-af4f-471f-9c19-795996b7fdab",
+    "OriginCoordinate": {
+        "x": 8.0,
+        "y": 0.0
+    },
+    "Rotation": 0,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"granddaddypurple\",\"Quantity\":16,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"sourdiesel\",\"Quantity\":10,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"pinkcookies\",\"Quantity\":6,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"granddaddypurple\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"miraclegrool\",\"Quantity\":12,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"miraclegrool\",\"Quantity\":4,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"pinkcookies\",\"Quantity\":4,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    }
+}
